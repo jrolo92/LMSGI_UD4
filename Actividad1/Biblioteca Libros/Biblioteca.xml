@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca SYSTEM "Biblioteca.dtd">
+<biblioteca>
+  <libro>
+    <codigo>001</codigo>
+    <titulo>Harry Potter y la piedra filosofal</titulo>
+    <editorial>Scholastic</editorial>    
+    <edicion>1</edicion>
+    <ISBN>978-0-590-35340-3</ISBN>
+    <paginas>223</paginas>
+    <autor>J.K. Rowling</autor>
+  </libro>
+  <libro>
+    <codigo>002</codigo>
+    <titulo>1984</titulo>
+    <editorial>Secker and Warburg</editorial>    
+    <edicion>1</edicion>
+    <ISBN>978-0-452-28423-4</ISBN>
+    <paginas>328</paginas>
+    <autor>George Orwell</autor>
+  </libro>
+  <libro>
+    <codigo>003</codigo>
+    <titulo>Don Quijote de la Mancha</titulo>
+    <editorial>Francisco de Robles</editorial>    
+    <edicion>1</edicion>
+    <ISBN>978-1-56619-909-4</ISBN>
+    <paginas>863</paginas>
+    <autor>Miguel de Cervantes</autor>
+  </libro>
+  <libro>
+    <codigo>004</codigo>
+    <titulo>Orgullo y prejuicio</titulo>
+    <editorial>Thomas Egerton</editorial>    
+    <edicion>1</edicion>
+    <ISBN>978-0-19-953556-9</ISBN>
+    <paginas>279</paginas>
+    <autor>Jane Austen</autor>
+  </libro>
+  <libro>
+    <codigo>005</codigo>
+    <titulo>Crónica de una muerte anunciada</titulo>
+    <editorial>Sudamericana</editorial>    
+    <edicion>1</edicion>
+    <ISBN>978-0-06-088328-7</ISBN>
+    <paginas>122</paginas>
+    <autor>Gabriel García Márquez</autor>
+  </libro>
+  <libro>
+    <codigo>006</codigo>
+    <titulo>El Hobbit</titulo>
+    <editorial>Allen and Unwin</editorial>
+    <edicion>1</edicion>
+    <ISBN>978-0-618-00221-3</ISBN>
+    <paginas>310</paginas>
+    <autor>J.R.R. Tolkien</autor>
+  </libro>
+  <libro>
+    <codigo>007</codigo>
+    <titulo>Juego de tronos</titulo>
+    <editorial>Bantam Spectra</editorial>
+    <edicion>1</edicion>
+    <ISBN>978-0-553-10354-0</ISBN>
+    <paginas>694</paginas>
+    <autor>George R.R. Martin</autor>
+  </libro>
+  <libro>
+    <codigo>008</codigo>
+    <titulo>El retrato de Dorian Gray</titulo>
+    <editorial>Ward, Lock and Co.</editorial>
+    <edicion>1</edicion>
+    <ISBN>978-0-14-143957-0</ISBN>
+    <paginas>254</paginas>
+    <autor>Oscar Wilde</autor>
+  </libro>
+  <libro>
+    <codigo>009</codigo>
+    <titulo>Los miserables</titulo>
+    <editorial>A. Lacroix, Verboeckhoven and Cie.</editorial>
+    <edicion>1</edicion>
+    <ISBN>978-0-14-044430-8</ISBN>
+    <paginas>1488</paginas>
+    <autor>Victor Hugo</autor>
+  </libro>
+  <libro>
+    <codigo>010</codigo>
+    <titulo>Fundación</titulo>
+    <editorial>Gnome Press</editorial>
+    <edicion>1</edicion>
+    <ISBN>978-0-553-29335-7</ISBN>
+    <paginas>255</paginas>
+    <autor>Isaac Asimov</autor>
+  </libro>
+</biblioteca>
