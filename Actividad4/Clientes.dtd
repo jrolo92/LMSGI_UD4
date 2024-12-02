@@ -1,0 +1,18 @@
+<!ELEMENT gestoria (sede*, cliente*)>
+
+<!ELEMENT sede (direccion,empleado,fechaAlta,cliente)>
+<!ATTLIST sede codigo NMTOKEN #REQUIRED>
+<!ELEMENT direccion (#PCDATA)>
+<!ELEMENT empleado (#PCDATA)>
+<!ELEMENT fechaAlta (#PCDATA)>
+
+<!ELEMENT cliente (descripcion,numero,vivienda)>
+<!ATTLIST cliente codigo NMTOKEN #IMPLIED>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+
+<!ELEMENT vivienda (coste, resumen, plazo)>
+<!ATTLIST vivienda id CDATA #REQUIRED>
+<!ELEMENT coste (#PCDATA)>
+<!ELEMENT resumen (#PCDATA)>
+<!ELEMENT plazo (#PCDATA)>

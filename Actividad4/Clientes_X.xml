@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gestoria SYSTEM "Clientes.dtd">
+
+<gestoria>
+    <sede codigo="AAA-5574632">
+        <direccion>Calle Gregorio Prieto 46</direccion>
+        <empleado>Pedro</empleado>
+        <fechaAlta>28/11/2021</fechaAlta>
+
+        <cliente codigo="ERF-234">
+            <descripcion>solvente</descripcion>
+            <numero>1</numero>
+            <vivienda id="001">
+                <coste>50500€</coste>
+                <resumen>Vivienda amueblada</resumen>
+                <plazo>30 dias</plazo>
+            </vivienda>
+        </cliente>
+    </sede>
+    <sede codigo="BBB-9982154">
+        <direccion>Calle Kandinsky</direccion>
+        <empleado>Pedro</empleado>
+        <fechaAlta>29/03/2017</fechaAlta>
+
+        <cliente codigo="JFJ-069">
+            <descripcion>insolvente</descripcion>
+            <numero>2</numero>
+                <vivienda id="001">
+                <coste>20000€</coste>
+                <resumen>Local Oficinas</resumen>
+                <plazo>14 dias</plazo>
+            </vivienda>
+        </cliente>
+    </sede>
+</gestoria>
