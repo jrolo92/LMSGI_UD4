@@ -1,0 +1,8 @@
+<!ELEMENT CFGS_DAW (modulo)+>
+<!ELEMENT modulo (nombre_modulo, unidad_didactica+)>
+<!ELEMENT nombre_modulo (#PCDATA)>
+<!ELEMENT unidad_didactica (numero_unidad, contenidos)>
+<!ELEMENT numero_unidad (#PCDATA)>
+<!ELEMENT contenidos (tipo, descripción)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT descripción (#PCDATA)>

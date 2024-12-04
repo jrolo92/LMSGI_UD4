@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CFGS_DAW xmlns:xsi="http://www.w3.org/2001/XMLSchema/XMLschema-instance"
+    xsi:noNamespaceSchemaLocation="Modulos.xsd">
+    <modulo>
+        <nombre_modulo>Programacion</nombre_modulo>
+        <unidad_didactica>
+            <numero_unidad>2</numero_unidad>
+            <contenidos>
+                <tipo>JAVA</tipo>
+                <descripción>Programacion JAVA usando netbeans</descripción>
+            </contenidos>
+        </unidad_didactica>
+        <unidad_didactica>
+            <numero_unidad>3</numero_unidad>
+            <contenidos>
+                <tipo>Arrays</tipo>
+                <descripción>Programacion usando arrays con eclipse</descripción>
+            </contenidos>
+        </unidad_didactica>
+    </modulo>
+    <modulo>
+        <nombre_modulo>Base de datos</nombre_modulo>
+        <unidad_didactica>
+            <numero_unidad>3</numero_unidad>
+            <contenidos>
+                <tipo>Modelo entidad-relacion</tipo>
+                <descripción>Aprender a realizar diagramas E-R</descripción>
+            </contenidos>
+        </unidad_didactica>
+        <unidad_didactica>
+            <numero_unidad>4</numero_unidad>
+            <contenidos>
+                <tipo>Modelo relacional</tipo>
+                <descripción>Confección de grafos relacionales</descripción>
+            </contenidos>
+        </unidad_didactica>
+    </modulo>
+</CFGS_DAW>
