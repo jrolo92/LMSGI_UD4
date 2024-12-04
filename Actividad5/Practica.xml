@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<practicas>
+    <alumno>
+        <NIF>98456132T</NIF>
+        <resultado>No Apto</resultado>
+        <observaciones>Suspenso con un 4,5</observaciones>
+        <ip>192.168.23.65</ip>
+    </alumno>
+    <alumno>
+        <NIF>12345678W</NIF>
+        <resultado>Apto</resultado>
+        <observaciones>Sobresaliente</observaciones>
+        <ip>192.168.48.112</ip>
+    </alumno>
+</practicas>
