@@ -1,0 +1,18 @@
+{
+  "practicas": {
+    "alumno": [
+      {
+        "NIF": "98456132T",
+        "resultado": "No Apto",
+        "observaciones": "Suspenso con un 4,5",
+        "ip": "192.168.23.65"
+      },
+      {
+        "NIF": "12345678W",
+        "resultado": "Apto",
+        "observaciones": "Sobresaliente",
+        "mac": "192.168.48.112"
+      }
+    ]
+  }
+}

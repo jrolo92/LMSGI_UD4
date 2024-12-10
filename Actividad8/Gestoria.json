@@ -1,0 +1,40 @@
+{
+  "gestoria": {
+    "sede": [
+      {
+        "codigo": "AAA-5574632",
+        "direccion": "Calle Gregorio Prieto 46",
+        "empleado": "Pedro",
+        "fechaAlta": "28/11/2021",
+        "cliente": {
+          "codigo": "ERF-234",
+          "descripcion": "solvente",
+          "numero": "1",
+          "vivienda": {
+            "id": "001",
+            "coste": "50500€",
+            "resumen": "Vivienda amueblada",
+            "plazo": "30 dias"
+          }
+        }
+      },
+      {
+        "codigo": "BBB-9982154",
+        "direccion": "Calle Kandinsky",
+        "empleado": "Pedro",
+        "fechaAlta": "29/03/2017",
+        "cliente": {
+          "codigo": "JFJ-069",
+          "descripcion": "insolvente",
+          "numero": "2",
+          "vivienda": {
+            "id": "001",
+            "coste": "20000€",
+            "resumen": "Local Oficinas",
+            "plazo": "14 dias"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "CFGS_DAW": {
+    "modulo": [
+      {
+        "nombre_modulo": "Programacion",
+        "unidad_didactica": [
+          {
+            "numero_unidad": "2",
+            "contenidos": {
+              "tipo": "JAVA",
+              "descripción": "Programacion JAVA usando netbeans"
+            }
+          },
+          {
+            "numero_unidad": "3",
+            "contenidos": {
+              "tipo": "Arrays",
+              "descripción": "Programacion usando arrays con eclipse"
+            }
+          }
+        ]
+      },
+      {
+        "nombre_modulo": "Base de datos",
+        "unidad_didactica": [
+          {
+            "numero_unidad": "3",
+            "contenidos": {
+              "tipo": "Modelo entidad-relacion",
+              "descripción": "Aprender a realizar diagramas E-R"
+            }
+          },
+          {
+            "numero_unidad": "4",
+            "contenidos": {
+              "tipo": "Modelo relacional",
+              "descripción": "Confección de grafos relacionales"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

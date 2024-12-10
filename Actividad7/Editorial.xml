@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE informe SYSTEM "Editorial.dtd">
+<informe>
+    <titulo>Informe regional de ventas</titulo>
+    <descripción>Informe de ventas para las regiones Norte, Centro y Sur</descripción>
+    <fecha>30/12/2009</fecha>
+    <ventas>
+        <región nombre="Norte">
+            <trimestre>1</trimestre>
+            <libros>24000</libros>
+        </región>
+        <región nombre="Norte">
+            <trimestre>2</trimestre>
+            <libros>38600</libros>
+        </región>
+        <región nombre="Norte">
+            <trimestre>3</trimestre>
+            <libros>NO_INFO</libros>
+        </región>
+        <región nombre="Norte">
+            <trimestre>4</trimestre>
+            <libros>NO_INFO</libros>
+        </región>
+        <región nombre="Centro">
+            <trimestre>1</trimestre>
+            <libros>NO_INFO</libros>
+        </región>
+        <región nombre="Centro">
+            <trimestre>2</trimestre>
+            <libros>16080</libros>
+        </región>
+        <región nombre="Centro">
+            <trimestre>3</trimestre>
+            <libros>25000</libros>
+        </región>
+        <región nombre="Centro">
+            <trimestre>4</trimestre>
+            <libros>29000</libros>
+        </región>
+        <región nombre="Sur">
+            <trimestre>1</trimestre>
+            <libros>27000</libros>
+        </región>
+        <región nombre="Sur">
+            <trimestre>2</trimestre>
+            <libros>31400</libros>
+        </región>
+        <región nombre="Sur">
+            <trimestre>3</trimestre>
+            <libros>40100</libros>
+        </región>
+        <región nombre="Sur">
+            <trimestre>4</trimestre>
+            <libros>30000</libros>
+        </región>
+    </ventas>
+</informe>

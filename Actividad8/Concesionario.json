@@ -1,0 +1,51 @@
+{
+  "Concesionario": {
+    "coches": [
+      {
+        "codigo": "1",
+        "marca": "BMW",
+        "modelo": "Serie 1",
+        "matricula": "4672GTY",
+        "potencia": "150CV",
+        "plazas": "5",
+        "puertas": "5"
+      },
+      {
+        "codigo": "2",
+        "marca": "Renault",
+        "modelo": "Clio",
+        "matricula": "6730TGB",
+        "potencia": "90CV",
+        "plazas": "5",
+        "puertas": "5"
+      },
+      {
+        "codigo": "3",
+        "marca": "Volkswagen",
+        "modelo": "Golf",
+        "matricula": "8932LLT",
+        "potencia": "245CV",
+        "plazas": "5",
+        "puertas": "5"
+      },
+      {
+        "codigo": "4",
+        "marca": "Audi",
+        "modelo": "A3",
+        "matricula": "3204LMR",
+        "potencia": "150CV",
+        "plazas": "5",
+        "puertas": "5"
+      },
+      {
+        "codigo": "5",
+        "marca": "Toyota",
+        "modelo": "Célica",
+        "matricula": "3894JTY",
+        "potencia": "150CV",
+        "plazas": "5",
+        "puertas": "5"
+      }
+    ]
+  }
+}

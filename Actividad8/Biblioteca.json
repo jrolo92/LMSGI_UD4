@@ -1,0 +1,97 @@
+{
+    "biblioteca": {
+      "libro": [
+        {
+          "codigo": "001",
+          "titulo": "Harry Potter y la piedra filosofal",
+          "editorial": "Scholastic",
+          "edicion": "1",
+          "ISBN": "978-0-590-35340-3",
+          "paginas": "223",
+          "autor": "J.K. Rowling"
+        },
+        {
+          "codigo": "002",
+          "titulo": "1984",
+          "editorial": "Secker and Warburg",
+          "edicion": "1",
+          "ISBN": "978-0-452-28423-4",
+          "paginas": "328",
+          "autor": "George Orwell"
+        },
+        {
+          "codigo": "003",
+          "titulo": "Don Quijote de la Mancha",
+          "editorial": "Francisco de Robles",
+          "edicion": "1",
+          "ISBN": "978-1-56619-909-4",
+          "paginas": "863",
+          "autor": "Miguel de Cervantes"
+        },
+        {
+          "codigo": "004",
+          "titulo": "Orgullo y prejuicio",
+          "editorial": "Thomas Egerton",
+          "edicion": "1",
+          "ISBN": "978-0-19-953556-9",
+          "paginas": "279",
+          "autor": "Jane Austen"
+        },
+        {
+          "codigo": "005",
+          "titulo": "Crónica de una muerte anunciada",
+          "editorial": "Sudamericana",
+          "edicion": "1",
+          "ISBN": "978-0-06-088328-7",
+          "paginas": "122",
+          "autor": "Gabriel García Márquez"
+        },
+        {
+          "codigo": "006",
+          "titulo": "El Hobbit",
+          "editorial": "Allen and Unwin",
+          "edicion": "1",
+          "ISBN": "978-0-618-00221-3",
+          "paginas": "310",
+          "autor": "J.R.R. Tolkien"
+        },
+        {
+          "codigo": "007",
+          "titulo": "Juego de tronos",
+          "editorial": "Bantam Spectra",
+          "edicion": "1",
+          "ISBN": "978-0-553-10354-0",
+          "paginas": "694",
+          "autor": "George R.R. Martin"
+        },
+        {
+          "codigo": "008",
+          "titulo": "El retrato de Dorian Gray",
+          "editorial": "Ward, Lock and Co.",
+          "edicion": "1",
+          "ISBN": "978-0-14-143957-0",
+          "paginas": "254",
+          "autor": "Oscar Wilde"
+        },
+        {
+          "codigo": "009",
+          "titulo": "Los miserables",
+          "editorial": "A. Lacroix, Verboeckhoven and Cie.",
+          "edicion": "1",
+          "ISBN": "978-0-14-044430-8",
+          "paginas": "1488",
+          "autor": "Victor Hugo"
+        },
+        {
+          "codigo": "010",
+          "titulo": "Fundación",
+          "editorial": "Gnome Press",
+          "edicion": "1",
+          "ISBN": "978-0-553-29335-7",
+          "paginas": "255",
+          "autor": "Isaac Asimov"
+        }
+      ]
+    }
+  }
+  
